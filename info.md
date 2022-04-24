@@ -1,15 +1,15 @@
 
-Video Demo:
+# Video Demo:
 [Click Here](https://youtu.be/4pTzvGeZdmI)
 
-Remote:
+# Remote Design:
 ![Full Drone](../main/asset/Remote.png)
 
-Drone Rev 1:
+# Drone Rev 1:
 ![Full Drone](../main/asset/Rev%201.png)
 
-Drone PCB:
+# Drone PCB:
 ![Full Drone](../main/asset/pcb.jpg)
 
-Full Drone:
+# Full Drone:
 ![Full Drone](../main/asset/full_drone.jpg)
